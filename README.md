@@ -4,4 +4,4 @@
 
 Try again
 
-- 1 -- 10/07/23 -- Edit project do convert newsletter and send to kindle
+- 1 -- 10/07/23 -- Edit project do convert newsletter and send to kindle / Create a jamesperes page
