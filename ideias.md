@@ -1,6 +1,6 @@
 # Ideias to code during the 100 days of code
  
- - 1 - Create a landing page to show my projects and my skills --  [link](#1-Lading-Page)
+ - 1 - Create a landing page to show my projects and my skills --  [link](#1-Lading-Page) ![](https://geps.dev/progress/10)
     <div style="background-color: #f3f3f3; border-radius: 2px; padding: 1px;width: 40%">
        <div style="background-color: #2196F3; width: 10%; height: 3px; border-radius: 2px;"></div>
      </div>
