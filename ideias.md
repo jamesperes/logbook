@@ -8,6 +8,12 @@
  
  - 4 - Implement a Telegram bot to retrieve and summarize the latest messages from Telegram  -- [*__Show Progress__*](#4-Bot-to-retrieve-and-summarize-the-latest-messages-from-Telegram)
 
+ - 5 - Get AWS certification solutions architect associate --  [*__Show Progress__*](#5-Get-AWS-certification-solutions-architect-associate) 
+
+ - 6 - Get AWS certification developer associate --  [*__Show Progress__*](#6-Get-AWS-certification-developer-associate) 
+
+ - 7 - Get a LPIC-1 certification --  [*__Show Progress__*](#7-Get-a-LPIC-1-certification)
+
 
 
 
@@ -40,3 +46,15 @@
 ![](https://geps.dev/progress/0)
 - [ ] Create github repository
 - [ ] Create a bot in telegram
+
+ ## 5 - Get AWS certification solutions architect associate
+![](https://geps.dev/progress/0)
+- [ ] Create github repository with the study material
+
+ ## 6 - Get AWS certification developer associate
+![](https://geps.dev/progress/0)
+- [ ] Add study material to repository
+
+ ## 7 - Get a LPIC-1 certification
+![](https://geps.dev/progress/0)
+- [ ] Add study material to repository
