@@ -50,6 +50,7 @@
  ## 5 - Get AWS certification solutions architect associate
 ![](https://geps.dev/progress/0)
 - [ ] Create github repository with the study material
+- [ ] Add study material to repository
 
  ## 6 - Get AWS certification developer associate
 ![](https://geps.dev/progress/0)
