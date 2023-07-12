@@ -1,18 +1,18 @@
 # Ideias to code during the 100 days of code
  
- - 1 - Create a landing page to show my projects and my skills --  [*__Show Progress__*](#1-Lading-Page) 
+ - 1 - Create a landing page to show my projects and my skills --  [*__Show Progress__*](#1--Lading-Page) 
 
- - 2 - Develop a Telegram bot capable of converting emails into PDFs and sending them to Kindle  -- [*__Show Progress__*](#2-Convert-newsletter-and-send-to-kindle)
+ - 2 - Develop a Telegram bot capable of converting emails into PDFs and sending them to Kindle  -- [*__Show Progress__*](#2--Convert-newsletter-and-send-to-kindle)
 
- - 3 - Build a Telegram bot using ChatGPT to summarize text -- [*__Show Progress__*](#3-Summarize-text-using-ChatGPT)
+ - 3 - Build a Telegram bot using ChatGPT to summarize text -- [*__Show Progress__*](#3--Summarize-text-using-ChatGPT)
  
- - 4 - Implement a Telegram bot to retrieve and summarize the latest messages from Telegram  -- [*__Show Progress__*](#4-Bot-to-retrieve-and-summarize-the-latest-messages-from-Telegram)
+ - 4 - Implement a Telegram bot to retrieve and summarize the latest messages from Telegram  -- [*__Show Progress__*](#4--Bot-to-retrieve-and-summarize-the-latest-messages-from-Telegram)
 
- - 5 - Get AWS certification solutions architect associate --  [*__Show Progress__*](#5-Get-AWS-certification-solutions-architect-associate) 
+ - 5 - Get AWS certification solutions architect associate --  [*__Show Progress__*](#5--Get-AWS-certification-solutions-architect-associate) 
 
- - 6 - Get AWS certification developer associate --  [*__Show Progress__*](#6-Get-AWS-certification-developer-associate) 
+ - 6 - Get AWS certification developer associate --  [*__Show Progress__*](#6--Get-AWS-certification-developer-associate) 
 
- - 7 - Get a LPIC-1 certification --  [*__Show Progress__*](#7-Get-a-LPIC-1-certification)
+ - 7 - Get a LPIC-1 certification --  [*__Show Progress__*](#7--Get-a-LPIC-1-certification)
 
 
 
