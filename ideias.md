@@ -1,8 +1,8 @@
 # Ideias to code during the 100 days of code
  
- - 1 - Create a landing page to show my projects and my skills --  [*__Show Progress__*](#1--lading-Page) 
+ - 1 - Create a landing page to show my projects and my skills --  [*__Show Progress__*](#1---lading-page) 
 
- - 2 - Develop a Telegram bot capable of converting emails into PDFs and sending them to Kindle  -- [*__Show Progress__*](#2--convert-newsletter-and-send-to-kindle)
+ - 2 - Develop a Telegram bot capable of converting emails into PDFs and sending them to Kindle  -- [*__Show Progress__*](#2---convert-newsletter-and-send-to-kindle)
 
  - 3 - Build a Telegram bot using ChatGPT to summarize text -- [*__Show Progress__*](#3--summarize-text-using-ChatGPT)
  
