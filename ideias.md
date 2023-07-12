@@ -24,19 +24,19 @@
 - [x] create a repository
 - [ ] create a html page
 
-   ## 2 - Convert newsletter and send to kindle
-    ![](https://geps.dev/progress/10)
+ ## 2 - Convert newsletter and send to kindle
+![](https://geps.dev/progress/10)
 - [x] Create github repository
 - [x] Create a function to convert email to pdf and send to kindle
 - [ ] Create a infrastructure to run bot in cloud
 - [ ] Create a page to register
 
-  ## 3 - Summarize text using ChatGPT
-    ![](https://geps.dev/progress/0)
+ ## 3 - Summarize text using ChatGPT
+![](https://geps.dev/progress/0)
 - [ ] Create github repository
 
 
-  ## 4 - Bot to retrieve and summarize the latest messages from Telegram
-   ![](https://geps.dev/progress/0)
+ ## 4 - Bot to retrieve and summarize the latest messages from Telegram
+![](https://geps.dev/progress/0)
 - [ ] Create github repository
 - [ ] Create a bot in telegram
