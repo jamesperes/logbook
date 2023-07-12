@@ -1,12 +1,13 @@
 # Ideias to code during the 100 days of code
  
  - 1 - Create a landing page to show my projects and my skills --  [link](#1-Lading-Page) ![](https://geps.dev/progress/20)
+    ![](https://geps.dev/progress/0)
 
  - 2 - Develop a Telegram bot capable of converting emails into PDFs and sending them to Kindle  -- [link](#2-Convert-newsletter-and-send-to-kindle) ![](https://geps.dev/progress/0)
 
  - 3 - Build a Telegram bot using ChatGPT to summarize text -- [link](#3-Summarize-text-using-ChatGPT) ![](https://geps.dev/progress/0)
  
- - 4 - Implement a Telegram bot to retrieve and summarize the latest messages from Telegram  -- [link]![](https://geps.dev/progress/0)(#4-Bot-to-retrieve-and-summarize-the-latest-messages-from-Telegram)
+ - 4 - Implement a Telegram bot to retrieve and summarize the latest messages from Telegram  -- [link](#4-Bot-to-retrieve-and-summarize-the-latest-messages-from-Telegram) ![](https://geps.dev/progress/0)
 
 
 
