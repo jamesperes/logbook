@@ -16,9 +16,8 @@
 # Progress
 
  ## 1 - Lading Page  
-  ~~~
-    ![](https://geps.dev/progress/20)
-  ~~~
+![](https://geps.dev/progress/20)
+
 - [x] Resolve domain jamesperes.com (paid in godaddy) 
 - [ ] Resolve domain jamesperes.com.br (paid in registro.br)
 - [ ] Add redirect to jamesperes.com.br
