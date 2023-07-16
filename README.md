@@ -8,3 +8,5 @@ Try again
 - 2 -- 11/07/23 -- Set up the development environment with the tools and access to the GPT chat.
 - 3 -- 12/07/23 -- Create repository to save links to study
 - 4 -- 13/07/23 -- Study about JS and continue to create a landing page
+- 5 -- 14/07/23 -- Finish home to lading page
+- 6 -- 15/07/23 -- Bad day, only watch videos about AWS and coding
