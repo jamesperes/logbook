@@ -10,3 +10,7 @@ Try again
 - 4 -- 13/07/23 -- Study about JS and continue to create a landing page
 - 5 -- 14/07/23 -- Finish home to lading page
 - 6 -- 15/07/23 -- Bad day, only watch videos about AWS and coding
+
+Try again
+
+- 1 -- 20/07/23 -- Configure new computer and install all tools
